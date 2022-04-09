@@ -36,8 +36,12 @@ host: 127.0.0.1
 
 ## Package installation instructions:
 
-just type in terminal: `npm install`
-and you're good to go
+```
+cd store-front-api
+npm install
+```
+or
+`yarn`
 
 
 ### About:
