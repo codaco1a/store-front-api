@@ -1,9 +1,9 @@
 ## Creation:
 
-you might need to type: `sudo postgres' in the terminal first, and type your password`.
+you might need to type: `sudo postgres` in the terminal first, and type your password.
 
 steps:<br>
--psql postgres, insert your superuser password
+-`psql postgres`, insert your superuser password
 ```
 -CREATE USER store_front_user with PASSWORD 'your-password';
 -CREATE DATABASE store_front_dev WITH OWNER store_front_user;
